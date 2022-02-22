@@ -1,14 +1,14 @@
 # Project-3
 Blockchain Technology w/ Test Driven Development 
 
-## Objective 
-To challenge my understanding of Test-driven development, BlockChain creation, and Objected Oriented Programming. To Test-Driven Development Skills, I used the Jest library offered by JavaScript to test each line of code prior to running my instances. For my Blockchain creation, I used the concepts taught in the Blockchain Module of the course in order to write my pseudocode. Finally, to pick up on how to use Javascript, I used my psuedocode to research what syntax was required and how they varied from python. 
-
 ## Getting Set-Up 
 
 ### System Dependencies 
 * NodeJS 
 * NPM 
+* JavaScript 
+* Jest Testing Library
+* Unix Operating System
 
 ### Steps
 1. Create a directory where you want your project ot be stored (mkdir) 
@@ -16,6 +16,9 @@ To challenge my understanding of Test-driven development, BlockChain creation, a
 3. Install Jest and mark it as a library dependency that will be used in the development of this project. (npm i jest@23.6.0 --save-dev)
 4. In the package.json file, change the value of the "test" key to: "jest --watchAll" 
 5. Run npm run test 
+
+## Objective 
+To challenge my understanding of Test-driven development, BlockChain creation, and Objected Oriented Programming. To Test-Driven Development Skills, I used the Jest library offered by JavaScript to test each line of code prior to running my instances. For my Blockchain creation, I used the concepts taught in the Blockchain Module of the course in order to write my pseudocode. Finally, to pick up on how to use Javascript, I used my psuedocode to research what syntax was required and how they varied from python. 
 
 ## Object Oriented Programming 
 ### File System 
