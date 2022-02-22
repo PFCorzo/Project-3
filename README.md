@@ -14,7 +14,7 @@ To challenge my understanding of Test-driven development, BlockChain creation, a
 1. Create a directory where you want your project ot be stored (mkdir) 
 2. Convert to a a NodeJS Project (NPM init -y) 
 3. Install Jest and mark it as a library dependency that will be used in the development of this project. (npm i jest@23.6.0 --save-dev)
-4. 
+4. In the package.json file, change the value of the "test" key to: "jest --watchAll" 
 
 ### File System 
 Package JSON: The package.json file contains information regarding the NODEJS project, but it can always be editted. 
